@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: system-ui, sans-serif;
-  color: black;
+  color: rgb(191, 47, 47);
   background-color: white;
 }
 
@@ -43,8 +43,13 @@ main {
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
+  background-color: brown;
+}
+.prose {
+  background-color: rgb(255, 166, 0);
 }
 
+
 .buttonforbokmark {
-  text-size-adjust: 10px;
+  
 }
